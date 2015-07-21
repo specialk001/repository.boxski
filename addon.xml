@@ -5,9 +5,9 @@
         provider-name="Boxski">
     <extension point="xbmc.addon.repository"
         name="Boxski Add-on repository">
-		<info>https://cdn.rawgit.com/specialk001/boxski-repo/master/addons.xml</info>
-		<checksum>https://cdn.rawgit.com/specialk001/boxski-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://cdn.rawgit.com/specialk001/boxski-repo/blob/master/</datadir>
+		<info>https://rawgit.com/specialk001/boxski-repo/master/addons.xml</info>
+		<checksum>https://rawgit.com/specialk001/boxski-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://rawgit.com/specialk001/boxski-repo/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
 		<summary>Install Add-ons from Boxski</summary>
